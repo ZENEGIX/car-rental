@@ -7,6 +7,7 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import ru.zenegix.carrental.domain.car.Car;
+import ru.zenegix.carrental.domain.car.controller.CarRestController;
 import ru.zenegix.carrental.domain.car.service.CarService;
 import ru.zenegix.carrental.type.IntegrationTest;
 

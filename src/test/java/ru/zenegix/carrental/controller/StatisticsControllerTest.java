@@ -8,6 +8,7 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import ru.zenegix.carrental.domain.statistics.StatisticsService;
+import ru.zenegix.carrental.domain.statistics.controller.StatisticsController;
 import ru.zenegix.carrental.domain.statistics.response.AverageRentalTimeResponse;
 import ru.zenegix.carrental.type.IntegrationTest;
 

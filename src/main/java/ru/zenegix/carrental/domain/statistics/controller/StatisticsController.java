@@ -1,4 +1,4 @@
-package ru.zenegix.carrental.controller;
+package ru.zenegix.carrental.domain.statistics.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

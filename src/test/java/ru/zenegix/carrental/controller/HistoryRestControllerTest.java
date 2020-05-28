@@ -14,6 +14,7 @@ import org.springframework.test.web.servlet.ResultActions;
 import ru.zenegix.carrental.domain.address.Address;
 import ru.zenegix.carrental.domain.car.Car;
 import ru.zenegix.carrental.domain.history.History;
+import ru.zenegix.carrental.domain.history.controller.HistoryRestController;
 import ru.zenegix.carrental.domain.history.dto.HistoryCreateData;
 import ru.zenegix.carrental.domain.history.service.HistoryService;
 import ru.zenegix.carrental.domain.point.Point;

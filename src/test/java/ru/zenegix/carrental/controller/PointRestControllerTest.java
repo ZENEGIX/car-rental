@@ -7,6 +7,7 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import ru.zenegix.carrental.domain.point.Point;
+import ru.zenegix.carrental.domain.point.controller.PointRestController;
 import ru.zenegix.carrental.domain.point.service.PointService;
 import ru.zenegix.carrental.type.IntegrationTest;
 

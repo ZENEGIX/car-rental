@@ -1,4 +1,4 @@
-package ru.zenegix.carrental.controller;
+package ru.zenegix.carrental.domain.history.controller;
 
 import com.fasterxml.jackson.annotation.JsonView;
 import lombok.RequiredArgsConstructor;

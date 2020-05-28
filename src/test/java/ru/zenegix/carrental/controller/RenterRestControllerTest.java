@@ -7,6 +7,7 @@ import org.springframework.boot.test.mock.mockito.MockBean;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.servlet.MockMvc;
 import ru.zenegix.carrental.domain.renter.Renter;
+import ru.zenegix.carrental.domain.renter.controller.RenterRestController;
 import ru.zenegix.carrental.domain.renter.service.RenterService;
 import ru.zenegix.carrental.type.IntegrationTest;
 
